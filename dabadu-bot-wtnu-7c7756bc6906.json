@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dabadu-bot-wtnu",
+  "private_key_id": "7c7756bc6906f28840282c08c7429e20c4945ad7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDC9xmRFPYTqFPQ\nnVvWwr4xtoONiE+XgJQuC2JM5hVcFtUkmRTXpzOL4CV7uVh2XljQws3Lht1381rZ\nw6KhuRUlAQRqL0tIrinZcsu9cVOFp3tUhf6N8jOZpj6clLiPb3ONUTS+uHoGxXkH\ntNDyR+IQyMRRgCF7qW85SraJ9FUq4CTcs7IKMbRl3o9tDh/kqoQw2osFUbkt3zK3\nscA7RRWFH+UJxVJUtQkFDrZuobUnI5VZuHwT3nrL+k7JuR/L2/hi3zzJhrf5lD3h\nkpAVvKeoFzWD+wKI9+FKRQptxyOhyIR83dko89/rn7Uhtqw2hd6TElTQOIqiE8l5\nFJ5iMFPdAgMBAAECggEAJ4oLYlP479WkYdt3458NCXH1Tf/F/Hi0FH50ihnjXRC4\nWzq8clvTZVuo3mWhXigWJQhMyijow0nUM/OsCNZLRnzlU0+SGgRQMmxIi3vvL1ze\n8y5ViJ4E/vUrH4A9ycEVkyRT6RXqkXL876Yo9enEHBlLTygIIlcjWmAfkuy9VPtT\nGgsMihBEs4rWoIJb3YpqnJK8n0erCorG6FCKejkenTRVj8jDhoRJWqUrv5iHLXpo\nNc26iXN7Ww2w1XgIoXNLJwBwctFjhOYWpg8tNOvLZppHhkqxg91ptvoXDgQmTAC5\n1MRJF4Est1zVlPlcTKptxiSgm99u6oDqOr3/l8QmdQKBgQD1cEtuRvo2gwf8JT57\nAcAmK/hrUYJvYKRFItz4IwM3k1/X/DnORYQkD5ms4w3Mop3NXXOZFMIhN/FwgLMI\nB5beotmfrWkn5EZTwDjhUhRL4HDzW6gZvf8B1qMzrKauUKLxOfFHXnhZ0S22DMwS\nsRGQsOV7qPrsNGz96+dqDJFgmwKBgQDLWsy4O4t+gY8YCnvev7NfrPzpjxelcTQy\nfvr7Aav15iMAAsWQIXRFumlgb9Eur5k4wWOQK4u9qw0C+YQsp9x2XwzFKwbY8VAU\nnhbDqSd+xQ4rftJObFfvS83Kz3jwH4eURdSNti0WkiSMYp30THJP1k12UI4YlXLG\noJFzyQT45wKBgQCLzlp5R57xfDQJMeHkSXv9gmBwKS7maKNJ6nD6O19ywdT/f+Ih\nmEGMFQLRk0hh/2Np/siBM2zdZTN3hSf18/TBfvv909apbYON41nDJ3D+Q6uzQ8t+\nVlay4mN2ZOtRMgeO5xWENNDTQK8MG0AHiatawxkFFp1P/RD0lvLr2prY7wKBgQCM\nE8fhQGMeiXBgRxh8n+CXjznISOEo/YnPHtkT/lrNz/FcGIyuc9z8CyR7YYredec9\nyTkkHlrsE9+qpOX/PMIIaAEL8E+PMOrQyPU1YlfqYyMXowyLKOaJ19WyVqggABgM\ncu2vkEYOviye52+W0PINPLmvPl4jYQ7m88Q91cKvEQKBgQCOzz3G7Z18JtojqdqF\nfcOkx2G7rf4zxiqAyqUhnf5IGh5Bm/D1aNZE40zcBC4E+2HQ8ZV0OFbDygoqCx2Q\nRjtcsr89+hgDylBkwNp9NIbSSt3IBuU8J8X5Ypd9zdoKAhhCD+ZeT1e61kCPPYzt\nziLOf2YAOKWkHl7mVbHBx/SRNw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dabadu@dabadu-bot-wtnu.iam.gserviceaccount.com",
+  "client_id": "101970841146200356980",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dabadu%40dabadu-bot-wtnu.iam.gserviceaccount.com"
+}
